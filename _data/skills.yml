@@ -1,0 +1,35 @@
+technical:
+ - title: Java
+   level: Advanced
+ - title: Spring Boot
+   level: Advanced
+ - title: PL/SQL
+   level: Intermediate
+ - title: Kafka
+   level: Intermediate
+ - title: Microservices
+   level: Intermediate
+ - title: GIT
+   level: Advanced
+ - title: HTML5
+   level: Intermediate
+ - title: CSS3
+   level: Intermediate
+ - title: JavaScript
+   level: Intermediate
+ - title: RESTful Web Services
+   level: Intermediate
+ - title: UNIX
+   level: Intermediate
+ - title: Maven
+   level: Intermediate
+
+soft:
+ - title: Writing
+   level: Intermediate
+ - title: Leadership
+   level: Intermediate
+ - title: Team Work
+   level: Intermediate
+ - title: Problem solving
+   level: Intermediate

@@ -1,18 +1,21 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey there, I'm Rishabh 👋
+I'm a software developer with over 7 years of experience in SQL and Spring Boot development.
+👨🏻‍💻Expertise in Java, Spring Boot, SQL, Kafka, and Oracle.
+💡Passionate about creating innovative, high-quality software that solves real-world problems.
+🚀Love sharing my knowledge & expertise through writing, live sessions, and open-source projects.
+👋Looking for exciting new opportunities to work and make a positive impact on millions of lives.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## My Skills
+### Technical Skills
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include technicalskills.markdown %}
 
+### Soft Skills
 
-[jekyll-organization]: https://github.com/jekyll
+{% include softskills.markdown %}
