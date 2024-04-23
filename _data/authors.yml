@@ -1,11 +1,11 @@
 Rishabh Nigam:
   name        : "Rishabh Nigam"
-  bio         : "Let's talk about code! Reach out via the links below."
-  avatar      : "/assets/images/Rishabh_DP.png"
+  bio         : "💡Crafting digital experiences with lines of code✨ Reach out via the links below."
+  avatar      : "/assets/images/Rishabh_Side.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rishabhnigam590@email.com"
+      url: "mailto:rishabhnigam590@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rnigam01.github.io/"
