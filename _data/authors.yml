@@ -1,6 +1,6 @@
 Rishabh Nigam:
   name        : "Rishabh Nigam"
-  bio         : "💡Crafting digital experiences with lines of code✨ Reach out via the links below."
+  bio         : "Crafting digital experiences with lines of code. Reach out via the links below."
   avatar      : "/assets/images/Rishabh_Side.jpg"
   links:
     - label: "Email"
@@ -9,4 +9,10 @@ Rishabh Nigam:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rnigam01.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Rishabh62448643"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/rishabhnigam4/"
  
