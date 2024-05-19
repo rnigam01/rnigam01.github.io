@@ -9,9 +9,9 @@ tags: [leadership]
 author_profile: true
 author: Rishabh Nigam
 header:
- teaser: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
- overlay_image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
- caption: "Photo credit: [**Unsplash: John Schnobrich*](https://unsplash.com/@johnschno)"
+ teaser: /assets/images/Career_Accelarate.png
+ overlay_image: /assets/images/Career_Accelarate.png
+ #caption: "Photo credit: [**Unsplash: John Schnobrich*](https://unsplash.com/@johnschno)"
  description: This article explains how to accelerate your career by leveraging professional services.
 ---
 

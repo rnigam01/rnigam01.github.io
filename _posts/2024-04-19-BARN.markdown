@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "The B.A.R.N. Framework"
-date:   2023-07-14 16:13:27 -0500
+date:   2024-05-19 16:13:27 -0500
 tags: [writing]
 author_profile: true
 author: Rishabh Nigam
@@ -9,10 +9,10 @@ categories: article
 highlight_home: true
 tagline: "How to write about your projects"
 header:
-  overlay_image: https://images.unsplash.com/photo-1444858291040-58f756a3bdd6
-  teaser: https://images.unsplash.com/photo-1444858291040-58f756a3bdd6
+  overlay_image: /assets/images/Project_Image.jpg
+  teaser: /assets/images/Project_Image.jpg
   
-  caption: "Photo credit: [**Unsplash: Frances Gunn**](https://unsplash.com/@francesgunn)"
+ # caption: "Photo credit: [**Unsplash: Frances Gunn**](https://unsplash.com/@francesgunn)"
 description: This article explains the BARN method, a framework for showcasing your projects.
 ---
 

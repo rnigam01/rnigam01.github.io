@@ -12,7 +12,7 @@ author: Rishabh Nigam
 # Hi! I'm Rishabh Nigam. 
  Hi there - I'm Rishabh, a Senior Software Engineer at FIS striving to make my dreams into reality!
 
-On my blog, I'll be sharing my experiences, learnings, and thoughts on development, personal finance, and life philosphies.
+On my blog, I'll be sharing my experiences, learnings, and thoughts on development.
 
 Join me on the road to achievement as we make a positive impact on the world together!!  
 
