@@ -11,7 +11,7 @@ author: Rishabh Nigam
 header:
  teaser: /assets/images/Career_Accelarate.png
  overlay_image: /assets/images/Career_Accelarate.png
- #caption: "Photo credit: [**Unsplash: John Schnobrich*](https://unsplash.com/@johnschno)"
+ caption: /assets/images/Career_Accelarate.png
  description: This article explains how to accelerate your career by leveraging professional services.
 ---
 
